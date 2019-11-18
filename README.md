@@ -7,6 +7,8 @@
 
 - 2017, **arXiv**, [Mobilenets: Efficient convolutional neural networks for mobile vision applications](https://arxiv.org/pdf/1704.04861)
 
+- 2017, **ICLR**, [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/pdf/1602.07360)
+
 - 2017, **SenSys**, [DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework](https://arxiv.org/pdf/1706.01215)
 
 - 2018, **arXiv**, [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/pdf/1810.05331)
@@ -49,6 +51,8 @@
 
 - 2017, **S&P**, [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644)
 
+- 2018, **arXiv**, [Are adversarial examples inevitable](https://arxiv.org/pdf/1809.02104)
+
 - 2018, **KDD**, [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984)
 
 - 2018, **USENIX**, [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
@@ -65,9 +69,15 @@
 
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
 
+- 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
+
 - 2019, **arXiv**, [Defending Against Misclassification Attacks in Transfer Learning](https://arxiv.org/pdf/1908.11230)
 
+- 2019, **arXiv**, [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705)
+
 - 2019, **arXiv**, [Sitatapatra: Blocking the Transfer of Adversarial Samples](https://arxiv.org/pdf/1901.08121)
+
+- 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
 
 - 2019, **arXiv**, [Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://arxiv.org/pdf/1904.08554)
 
@@ -134,8 +144,6 @@
 - 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891)
 
 ## SGX and TrustZone
-
-- 2017, **ICLR**, [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and less than 0.5MB model size](https://arxiv.org/pdf/1602.07360)
 
 - 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](http://adsabs.harvard.edu/abs/2018arXiv181000602G)
 
