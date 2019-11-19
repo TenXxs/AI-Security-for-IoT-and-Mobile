@@ -27,6 +27,8 @@
 
 - 2019, **arXiv**, [Characterizing the Deep Neural Networks Inference Performance of Mobile Applications](https://arxiv.org/pdf/1909.04783)
 
+- 2019, **arXiv**, [Confidential Deep Learning: Executing Proprietary Models on Untrusted Devices](https://arxiv.org/pdf/1908.10730)
+
 - 2019, **arXiv**, [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/pdf/1904.08444)
 
 - 2019, **arXiv**, [Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks](https://arxiv.org/pdf/1909.12741)
@@ -57,9 +59,9 @@
 
 - 2018, **USENIX**, [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
 
-- 2019, **arXiv**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
+- 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
 
-- 2019, **arXiv**, [Stateful Detection of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1907.05587)
+- 2019, **arXiv**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
 
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
@@ -69,13 +71,15 @@
 
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
 
-- 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
+- 2018, **ICLR**, [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/pdf/1803.01442)
 
 - 2019, **arXiv**, [Defending Against Misclassification Attacks in Transfer Learning](https://arxiv.org/pdf/1908.11230)
 
 - 2019, **arXiv**, [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705)
 
 - 2019, **arXiv**, [Sitatapatra: Blocking the Transfer of Adversarial Samples](https://arxiv.org/pdf/1901.08121)
+
+- 2019, **arXiv**, [Stateful Detection of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1907.05587)
 
 - 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
 
@@ -150,6 +154,8 @@
 - 2018, **arXiv**, [StreamBox-TZ: Secure Stream Analytics at the Edge with TrustZone](https://www.usenix.org/system/files/atc19-park-heejin.pdf)
 
 - 2018, **arXiv**, [YerbaBuena: Securing Deep Learning Inference Data via Enclave-based Ternary Model Partitioning](https://www.researchgate.net/profile/Ankita_Lamba/publication/326171835_Securing_Input_Data_of_Deep_Learning_Inference_Systems_via_Partitioned_Enclave_Execution/links/5b75c09092851ca65064df4e/Securing-Input-Data-of-Deep-Learning-Inference-Systems-via-Partitioned-Enclave-Execution.pdf)
+
+- 2019, **arXiv**, [Confidential Deep Learning: Executing Proprietary Models on Untrusted Devices](https://arxiv.org/pdf/1908.10730)
 
 - 2019, **arXiv**, [Let the Cloud Watch Over Your IoT File Systems](https://arxiv.org/pdf/1902.06327)
 
