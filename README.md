@@ -61,8 +61,6 @@
 
 - 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
 
-- 2019, **arXiv**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
-
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
 #### Defenses
@@ -120,6 +118,8 @@
 - 2018, **CCS**, [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](http://youngwei.com/pdf/PermuteInvariance.pdf)
 
 - 2019, **S&P**, [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/abstract/document/8835245/)
+
+- 2019, **CCS**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
 
 #### Defenses
 
