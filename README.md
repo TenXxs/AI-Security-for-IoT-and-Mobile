@@ -52,15 +52,11 @@
 #### Attacks
 
 - 2017, **S&P**, [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644)
-
 - 2018, **arXiv**, [Are adversarial examples inevitable](https://arxiv.org/pdf/1809.02104)
-
+- 2018, **ICML**, [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]( https://arxiv.org/pdf/1802.00420.pdf )
 - 2018, **KDD**, [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984)
-
 - 2018, **USENIX**, [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
-
 - 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
-
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
 #### Defenses
