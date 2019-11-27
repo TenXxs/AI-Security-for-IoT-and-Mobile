@@ -52,32 +52,48 @@
 #### Attacks
 
 - 2017, **S&P**, [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644)
+
 - 2018, **arXiv**, [Are adversarial examples inevitable](https://arxiv.org/pdf/1809.02104)
-- 2018, **ICML**, [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples]( https://arxiv.org/pdf/1802.00420.pdf )
+
+- 2018, **ICML**, [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420.pdf)
+
 - 2018, **KDD**, [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984)
+
 - 2018, **USENIX**, [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
+
 - 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
+
+- 2019, **arXiv**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
+
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
 #### Defenses
 
 - 2016, **S&P**, [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508)
+
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
-- 2018, **NeruIPS**, [Sparse DNNs with Improved Adversarial Robustness](http://papers.nips.cc/paper/7308-sparse-dnns-with-improved-adversarial-robustness.pdf)
+
 - 2018, **ICLR**, [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/pdf/1803.01442)
+
+- 2018, **NeurIPS**, [Sparse DNNs with Improved Adversarial Robustness](http://papers.nips.cc/paper/7308-sparse-dnns-with-improved-adversarial-robustness.pdf)
+
 - 2019, **arXiv**, [Defending Against Misclassification Attacks in Transfer Learning](https://arxiv.org/pdf/1908.11230)
+
 - 2019, **arXiv**, [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705)
+
 - 2019, **arXiv**, [Sitatapatra: Blocking the Transfer of Adversarial Samples](https://arxiv.org/pdf/1901.08121)
+
 - 2019, **arXiv**, [Stateful Detection of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1907.05587)
+
 - 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
+
 - 2019, **arXiv**, [Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://arxiv.org/pdf/1904.08554)
+
 - 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.org/pdf/1809.03008)
 
 ### Backdoor
 
 #### Attacks
-
-- 2018, **arXiv**, [How To Backdoor Federated Learning](https://arxiv.org/pdf/1807.00459)
 
 - 2018, **CCS**, [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/pdf/1812.00483)
 
@@ -109,8 +125,6 @@
 
 - 2019, **S&P**, [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/abstract/document/8835245/)
 
-- 2019, **CCS**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
-
 #### Defenses
 
 - 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](http://adsabs.harvard.edu/abs/2018arXiv181000602G)
@@ -130,6 +144,18 @@
 #### Defenses
 
 - 2019, **arXiv**, [Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning](https://arxiv.org/pdf/1908.07558)
+
+## Federated Learning
+
+- 2018, **arXiv**, [How To Backdoor Federated Learning](https://arxiv.org/pdf/1807.00459)
+
+- 2018, **arXiv**, [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.org/pdf/1808.04866)
+
+- 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.org/pdf/1909.06512)
+
+- 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/pdf/1811.12470)
+
+- 2019, **NeurIPS**, [Can You Really Backdoor Federated Learning](https://arxiv.org/pdf/1911.07963)
 
 ## Interpretability and Attacks to New Scenario
 
