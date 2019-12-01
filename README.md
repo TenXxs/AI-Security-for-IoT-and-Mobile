@@ -70,25 +70,18 @@
 #### Defenses
 
 - 2016, **S&P**, [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508)
-
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
-
 - 2018, **ICLR**, [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/pdf/1803.01442)
-
 - 2018, **NeurIPS**, [Sparse DNNs with Improved Adversarial Robustness](http://papers.nips.cc/paper/7308-sparse-dnns-with-improved-adversarial-robustness.pdf)
-
+- 2019, **arXiv**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations]( https://arxiv.org/pdf/1903.12261 )
 - 2019, **arXiv**, [Defending Against Misclassification Attacks in Transfer Learning](https://arxiv.org/pdf/1908.11230)
-
 - 2019, **arXiv**, [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705)
-
 - 2019, **arXiv**, [Sitatapatra: Blocking the Transfer of Adversarial Samples](https://arxiv.org/pdf/1901.08121)
-
 - 2019, **arXiv**, [Stateful Detection of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1907.05587)
-
+- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks]( https://arxiv.org/pdf/1906.06110.pdf)
 - 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
-
 - 2019, **arXiv**, [Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://arxiv.org/pdf/1904.08554)
-
+- 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations]( https://arxiv.org/pdf/1903.12261.pdf )
 - 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.org/pdf/1809.03008)
 
 ### Backdoor
@@ -180,13 +173,10 @@
 ## Survey
 
 - 2017, **arXiv**, [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282)
-
 - 2018, **arXiv**, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023)
-
 - 2018, **ECCV**, [AI Benchmark: Running Deep Neural Networks on Android Smartphones](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Ignatov_AI_Benchmark_Running_Deep_Neural_Networks_on_Android_Smartphones_ECCVW_2018_paper.pdf)
-
 - 2019, **arXiv**, [AI Benchmark: All About Deep Learning on Smartphones in 2019](https://arxiv.org/pdf/1910.06663)
-
 - 2019, **arXiv**, [Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing](https://arxiv.org/pdf/1905.10083)
-
+- 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations]( https://arxiv.org/pdf/1903.12261.pdf )
 - 2019, **TNN&LS**, [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107)
+
