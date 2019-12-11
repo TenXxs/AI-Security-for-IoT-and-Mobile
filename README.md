@@ -5,6 +5,8 @@
 
 - 2016, **ICLR**, [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149)
 
+- 2017, **arXiv**, [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/pdf/1710.01878)
+
 - 2017, **SenSys**, [DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework](https://arxiv.org/pdf/1706.01215)
 
 - 2018, **arXiv**, [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/pdf/1810.05331)
@@ -34,6 +36,8 @@
 - 2019, **ICCV**, [Adversarial Robustness vs. Model Compression, or Both](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf)
 
 - 2019, **ICLR**, [Rethinking the Value of Network Pruning](https://arxiv.org/pdf/1810.05270)
+
+- 2019, **OpenReview**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://openreview.net/pdf?id=S1gSj0NKvB)
 
 ### Misc
 
@@ -75,13 +79,15 @@
 
 - 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
 
-- 2019, **arXiv**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
+- 2019, **arXiv**, [WITCHcraft: Efficient PGD attacks with random step size](https://arxiv.org/pdf/1911.07989)
 
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
 #### Defenses
 
 - 2016, **S&P**, [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508)
+
+- 2018, **arXiv**, [Adversarial Logit Pairing](https://arxiv.org/pdf/1803.06373)
 
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
 
@@ -159,6 +165,8 @@
 
 - 2018, **CCS**, [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](http://youngwei.com/pdf/PermuteInvariance.pdf)
 
+- 2019, **CCS**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
+
 - 2019, **S&P**, [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/abstract/document/8835245/)
 
 #### Defenses
@@ -187,11 +195,11 @@
 
 - 2018, **arXiv**, [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.org/pdf/1808.04866)
 
+- 2019, **arXiv**, [Can You Really Backdoor Federated Learning](https://arxiv.org/pdf/1911.07963)
+
 - 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.org/pdf/1909.06512)
 
 - 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/pdf/1811.12470)
-
-- 2019, **NeurIPS**, [Can You Really Backdoor Federated Learning](https://arxiv.org/pdf/1911.07963)
 
 ## Interpretability and Attacks to New Scenario
 
