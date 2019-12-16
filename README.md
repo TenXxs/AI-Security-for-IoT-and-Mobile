@@ -1,4 +1,5 @@
 
+
 ## AI for IoT and Mobile
 
 ### Compression
@@ -13,6 +14,8 @@
 
 - 2018, **arXiv**, [To compress or not to compress: Understanding the Interactions between Adversarial Attacks and Neural Network Compression](https://arxiv.org/pdf/1810.00208)
 
+- 2018, **ECCV**, [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/pdf/1802.03494)
+
 - 2018, **ICLR**, [Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training](https://arxiv.org/pdf/1712.01887.pdf?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 
 - 2018, **SenSys**, [FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices](https://arxiv.org/pdf/1809.06970)
@@ -25,6 +28,8 @@
 
 - 2019, **arXiv**, [Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks](https://arxiv.org/pdf/1909.12741)
 
+- 2019, **arXiv**, [Model Compression with Adversarial Robustness: A Unified Optimization Framework](https://papers.nips.cc/paper/8410-model-compression-with-adversarial-robustness-a-unified-optimization-framework.pdf)
+
 - 2019, **arXiv**, [Neural Network Distiller: A Python Package For DNN Compression Research](https://arxiv.org/pdf/1910.12232)
 
 - 2019, **arXiv**, [Robust Sparse Regularization: Simultaneously Optimizing Neural Network Robustness and Compactness](https://arxiv.org/pdf/1905.13074)
@@ -32,6 +37,12 @@
 - 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
 
 - 2019, **BigComp**, [Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132/)
+
+- 2019, **CVPR**, [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_FBNet_Hardware-Aware_Efficient_ConvNet_Design_via_Differentiable_Neural_Architecture_Search_CVPR_2019_paper.pdf)
+
+- 2019, **CVPR**, [HAQ: Hardware-Aware Automated Quantization with Mixed Precision](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_HAQ_Hardware-Aware_Automated_Quantization_With_Mixed_Precision_CVPR_2019_paper.pdf)
+
+- 2019, **CVPR**, [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf)
 
 - 2019, **ICCV**, [Adversarial Robustness vs. Model Compression, or Both](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf)
 
