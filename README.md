@@ -14,13 +14,15 @@
 
 - 2018, **arXiv**, [To compress or not to compress: Understanding the Interactions between Adversarial Attacks and Neural Network Compression](https://arxiv.org/pdf/1810.00208)
 
-- 2018, **ECCV**, [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/pdf/1802.03494)
+- 2018, **ECCV**, [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)
 
 - 2018, **ICLR**, [Deep Gradient Compression: Reducing the Communication Bandwidth for Distributed Training](https://arxiv.org/pdf/1712.01887.pdf?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 
 - 2018, **SenSys**, [FastDeepIoT: Towards Understanding and Optimizing Neural Network Execution Time on Mobile and Embedded Devices](https://arxiv.org/pdf/1809.06970)
 
 - 2019, **arXiv**, [A Programmable Approach to Model Compression](https://arxiv.org/pdf/1911.02497)
+
+- 2019, **arXiv**, [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355)
 
 - 2019, **arXiv**, [Adversarially Robust Distillation](https://arxiv.org/pdf/1905.09747)
 
@@ -32,7 +34,11 @@
 
 - 2019, **arXiv**, [Neural Network Distiller: A Python Package For DNN Compression Research](https://arxiv.org/pdf/1910.12232)
 
+- 2019, **arXiv**, [Pruning from Scratch](https://arxiv.org/pdf/1909.12579)
+
 - 2019, **arXiv**, [Robust Sparse Regularization: Simultaneously Optimizing Neural Network Robustness and Compactness](https://arxiv.org/pdf/1905.13074)
+
+- 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
 
 - 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
 
@@ -47,6 +53,10 @@
 - 2019, **ICCV**, [Adversarial Robustness vs. Model Compression, or Both](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf)
 
 - 2019, **ICLR**, [Rethinking the Value of Network Pruning](https://arxiv.org/pdf/1810.05270)
+
+- 2019, **ICONIP**, [Self-Adaptive Network Pruning](https://arxiv.org/pdf/1910.08906)
+
+- 2019, **NeurIPS**, [Network Pruning via Transformable Architecture Search](https://arxiv.org/pdf/1905.09717)
 
 - 2019, **OpenReview**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://openreview.net/pdf?id=S1gSj0NKvB)
 
