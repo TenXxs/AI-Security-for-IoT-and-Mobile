@@ -4,13 +4,11 @@
 
 ### Compression
 
+#### Combining or Other
+
 - 2016, **ICLR**, [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149)
 
-- 2017, **arXiv**, [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/pdf/1710.01878)
-
 - 2017, **SenSys**, [DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework](https://arxiv.org/pdf/1706.01215)
-
-- 2018, **arXiv**, [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/pdf/1810.05331)
 
 - 2018, **arXiv**, [To compress or not to compress: Understanding the Interactions between Adversarial Attacks and Neural Network Compression](https://arxiv.org/pdf/1810.00208)
 
@@ -22,25 +20,7 @@
 
 - 2019, **arXiv**, [A Programmable Approach to Model Compression](https://arxiv.org/pdf/1911.02497)
 
-- 2019, **arXiv**, [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355)
-
-- 2019, **arXiv**, [Adversarially Robust Distillation](https://arxiv.org/pdf/1905.09747)
-
-- 2019, **arXiv**, [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/pdf/1904.08444)
-
-- 2019, **arXiv**, [Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks](https://arxiv.org/pdf/1909.12741)
-
-- 2019, **arXiv**, [Model Compression with Adversarial Robustness: A Unified Optimization Framework](https://papers.nips.cc/paper/8410-model-compression-with-adversarial-robustness-a-unified-optimization-framework.pdf)
-
 - 2019, **arXiv**, [Neural Network Distiller: A Python Package For DNN Compression Research](https://arxiv.org/pdf/1910.12232)
-
-- 2019, **arXiv**, [Pruning from Scratch](https://arxiv.org/pdf/1909.12579)
-
-- 2019, **arXiv**, [Robust Sparse Regularization: Simultaneously Optimizing Neural Network Robustness and Compactness](https://arxiv.org/pdf/1905.13074)
-
-- 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
-
-- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
 
 - 2019, **BigComp**, [Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132/)
 
@@ -50,15 +30,53 @@
 
 - 2019, **CVPR**, [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf)
 
+#### Distillation
+
+- 2019, **arXiv**, [Adversarially Robust Distillation](https://arxiv.org/pdf/1905.09747)
+
+#### Factorization
+
+- 2019, **arXiv**, [Robust Sparse Regularization: Simultaneously Optimizing Neural Network Robustness and Compactness](https://arxiv.org/pdf/1905.13074)
+
+#### Pruning
+
+- 2017, **arXiv**, [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/pdf/1710.01878)
+
+- 2018, **arXiv**, [Dynamic Channel Pruning: Feature Boosting and Suppression](https://arxiv.org/pdf/1810.05331)
+
+- 2019, **arXiv**, [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355)
+
+- 2019, **arXiv**, [Pruning from Scratch](https://arxiv.org/pdf/1909.12579)
+
+- 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
+
+- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
+
 - 2019, **ICCV**, [Adversarial Robustness vs. Model Compression, or Both](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf)
 
 - 2019, **ICLR**, [Rethinking the Value of Network Pruning](https://arxiv.org/pdf/1810.05270)
+
+- 2019, **ICLR**, [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635)
 
 - 2019, **ICONIP**, [Self-Adaptive Network Pruning](https://arxiv.org/pdf/1910.08906)
 
 - 2019, **NeurIPS**, [Network Pruning via Transformable Architecture Search](https://arxiv.org/pdf/1905.09717)
 
-- 2019, **OpenReview**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://openreview.net/pdf?id=S1gSj0NKvB)
+- 2020, **ICLR**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://openreview.net/pdf?id=S1gSj0NKvB)
+
+#### Quantization
+
+- 2018, **arXiv**, [Combinatorial Attacks on Binarized Neural Networks](https://arxiv.org/pdf/1810.03538)
+
+- 2018, **ICLR**, [Attacking Binarized Neural Networks](https://arxiv.org/pdf/1711.00449)
+
+- 2019, **arXiv**, [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/pdf/1904.08444)
+
+- 2019, **arXiv**, [Impact of Low-bitwidth Quantization on the Adversarial Robustness for Embedded Neural Networks](https://arxiv.org/pdf/1909.12741)
+
+- 2019, **arXiv**, [Model Compression with Adversarial Robustness: A Unified Optimization Framework](https://papers.nips.cc/paper/8410-model-compression-with-adversarial-robustness-a-unified-optimization-framework.pdf)
+
+- 2019, **ICLR**, [Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets](https://arxiv.org/pdf/1903.05662)
 
 ### Misc
 
