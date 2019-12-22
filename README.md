@@ -46,7 +46,7 @@
 
 - 2019, **arXiv**, [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355)
 
-- 2019, **arXiv**, [Pruning from Scratch](https://arxiv.org/pdf/1909.12579)
+- 2019, **arXiv**, [Pruning from Scratch](https://arxiv.xilesou.top/pdf/1909.12579)
 
 - 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
 
@@ -156,13 +156,13 @@
 
 - 2019, **arXiv**, [Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://arxiv.org/pdf/1904.08554)
 
-- 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/pdf/1903.12261)
+- 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.xilesou.top/pdf/1903.12261)
 
-- 2019, **ICLR**, [Robustness May Be at Odds with Accuracy](https://arxiv.org/pdf/1805.12152.pdf,)
+- 2019, **ICLR**, [Robustness May Be at Odds with Accuracy](https://arxiv.xilesou.top/pdf/1805.12152.pdf,)
 
-- 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.org/pdf/1809.03008)
+- 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.xilesou.top/pdf/1809.03008)
 
-- 2019, **NeurIPS**, [Adversarial Training for Free](https://arxiv.org/pdf/1904.12843)
+- 2019, **NeurIPS**, [Adversarial Training for Free](https://arxiv.xilesou.top/pdf/1904.12843)
 
 - 2019, **PMLR**, [Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers](http://proceedings.mlr.press/v97/liu19b/liu19b.pdf)
 
@@ -170,27 +170,45 @@
 
 #### Attacks
 
-- 2018, **CCS**, [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.org/pdf/1812.00483)
+- 2017, **arXiv**, [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.xilesou.top/pdf/1712.05526)
 
-- 2018, **RAID**, [Fine-Pruning Defending Against Backdooring Attacks on Deep Neural Network](https://arxiv.org/pdf/1805.12185)
+- 2017, **CNS**, [Backdoor Attacks against Learning Systems](https://par.nsf.gov/servlets/purl/10066467)
 
-- 2019, **arXiv**, [Bypassing Backdoor Detection Algorithms in Deep Learning](https://arxiv.org/pdf/1905.13409)
+- 2018, **CCS**, [Model-Reuse Attacks on Deep Learning Systems](https://arxiv.xilesou.top/pdf/1812.00483)
 
-- 2019, **arXiv**, [Invisible Backdoor Attacks Against Deep Neural Networks](https://arxiv.org/pdf/1909.02742)
+- 2018, **CoRR**, [Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.xilesou.top/pdf/1808.10307)
 
-- 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.org/pdf/1905.10447)
+- 2018, **CVPR**, [Robust Physical-World Attacks on Deep Learning Visual Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)
+
+- 2018, **NDSS**, [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
+
+- 2019, **Access**, [BadNets: Evaluating Backdooring Attacks on Deep Neural Networks](https://ieeexplore.ieee.xilesou.top/iel7/6287639/8600701/08685687.pdf)
+
+- 2019, **arXiv**, [Bypassing Backdoor Detection Algorithms in Deep Learning](https://arxiv.xilesou.top/pdf/1905.13409)
+
+- 2019, **arXiv**, [Invisible Backdoor Attacks Against Deep Neural Networks](https://arxiv.xilesou.top/pdf/1909.02742)
+
+- 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.xilesou.top/pdf/1905.10447)
 
 #### Defenses
 
-- 2018, **arXiv**, [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/pdf/1811.03728)
+- 2017, **ICCD**, [Neural Trojans](https://arxiv.xilesou.top/pdf/1710.00942)
 
-- 2018, **RAID**, [Fine-Pruning Defending Against Backdooring Attacks on Deep Neural Network](https://arxiv.org/pdf/1805.12185)
+- 2018, **arXiv**, [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.xilesou.top/pdf/1811.03728)
 
-- 2019, **arXiv**, [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.org/pdf/1911.07399)
+- 2018, **arXiv**, [SentiNet: Detecting Physical Attacks Against Deep Learning Systems](https://arxiv.xilesou.top/pdf/1812.00292)
 
-- 2019, **arXiv**, [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.org/pdf/1908.01763)
+- 2018, **RAID**, [Fine-Pruning Defending Against Backdooring Attacks on Deep Neural Network](https://arxiv.xilesou.top/pdf/1805.12185)
 
-- 2019, **NeurIPS**, [Defending Neural Backdoors via Generative Distribution Modeling](https://arxiv.org/pdf/1910.04749)
+- 2019, **ACSAC**, [STRIP: a defence against trojan attacks on deep neural networks](https://arxiv.xilesou.top/pdf/1902.06531)
+
+- 2019, **arXiv**, [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.xilesou.top/pdf/1911.07399)
+
+- 2019, **arXiv**, [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.xilesou.top/pdf/1908.01763)
+
+- 2019, **NDSS**, [Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.cs.purdue.edu/homes/ma229/papers/NDSS19.pdf)
+
+- 2019, **NeurIPS**, [Defending Neural Backdoors via Generative Distribution Modeling](http://papers.nips.cc/paper/9550-defending-neural-backdoors-via-generative-distribution-modeling.pdf)
 
 - 2019, **Online**, [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](http://www.aceslab.org/sites/default/files/DeepInspect.pdf)
 
@@ -200,55 +218,55 @@
 
 #### Attacks
 
-- 2017, **S&P**, [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820)
+- 2017, **S&P**, [Membership Inference Attacks Against Machine Learning Models](https://arxiv.xilesou.top/pdf/1610.05820)
 
 - 2018, **CCS**, [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](http://youngwei.com/pdf/PermuteInvariance.pdf)
 
-- 2019, **CCS**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.org/pdf/1905.10291)
+- 2019, **CCS**, [Privacy Risks of Securing Machine Learning Models against Adversarial Examples](https://arxiv.xilesou.top/pdf/1905.10291)
 
-- 2019, **S&P**, [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://ieeexplore.ieee.org/abstract/document/8835245/)
+- 2019, **S&P**, [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://gfsoso.99lb.net/sci-hub.html)
 
 #### Defenses
 
-- 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](http://adsabs.harvard.edu/abs/2018arXiv181000602G)
+- 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](https://gfsoso.99lb.net/sci-hub.html)
 
 - 2018, **arXiv**, [YerbaBuena: Securing Deep Learning Inference Data via Enclave-based Ternary Model Partitioning](https://www.researchgate.net/profile/Ankita_Lamba/publication/326171835_Securing_Input_Data_of_Deep_Learning_Inference_Systems_via_Partitioned_Enclave_Execution/links/5b75c09092851ca65064df4e/Securing-Input-Data-of-Deep-Learning-Inference-Systems-via-Partitioned-Enclave-Execution.pdf)
 
-- 2019, **CCS**, [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/pdf/1909.10594)
+- 2019, **CCS**, [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.xilesou.top/pdf/1909.10594)
 
-- 2019, **mobicom**, [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/citation.cfm?id=3345447)
+- 2019, **mobicom**, [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://gfsoso.99lb.net/sci-hub.html)
 
-- 2019, **S&P**, [Certified Robustness to Adversarial Examples with Differential Privacy](https://arxiv.org/pdf/1802.03471)
+- 2019, **S&P**, [Certified Robustness to Adversarial Examples with Differential Privacy](https://arxiv.xilesou.top/pdf/1802.03471)
 
-- 2019, **SOSP**, [Privacy accounting and quality control in the sage differentially private ML platform](https://arxiv.org/pdf/1909.01502)
+- 2019, **SOSP**, [Privacy accounting and quality control in the sage differentially private ML platform](https://arxiv.xilesou.top/pdf/1909.01502)
 
 ### Poisoning
 
 #### Defenses
 
-- 2019, **arXiv**, [Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning](https://arxiv.org/pdf/1908.07558)
+- 2019, **arXiv**, [Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning](https://arxiv.xilesou.top/pdf/1908.07558)
 
 ## Federated Learning
 
-- 2018, **arXiv**, [How To Backdoor Federated Learning](https://arxiv.org/pdf/1807.00459)
+- 2018, **arXiv**, [How To Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1807.00459)
 
-- 2018, **arXiv**, [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.org/pdf/1808.04866)
+- 2018, **arXiv**, [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.xilesou.top/pdf/1808.04866)
 
-- 2019, **arXiv**, [Can You Really Backdoor Federated Learning](https://arxiv.org/pdf/1911.07963)
+- 2019, **arXiv**, [Can You Really Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1911.07963)
 
-- 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.org/pdf/1909.06512)
+- 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.xilesou.top/pdf/1909.06512)
 
-- 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.org/pdf/1811.12470)
+- 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.xilesou.top/pdf/1811.12470)
 
 ## Interpretability and Attacks to New Scenario
 
 - 2019, **arXiv**, [Deep Leakage from Gradients](https://arxiv.org/pdf/1906.08935)
 
-- 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.org/pdf/1812.00891)
+- 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.xilesou.top/pdf/1812.00891)
 
 ## SGX and TrustZone
 
-- 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](http://adsabs.harvard.edu/abs/2018arXiv181000602G)
+- 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](https://gfsoso.99lb.net/sci-hub.html)
 
 - 2018, **arXiv**, [StreamBox-TZ: Secure Stream Analytics at the Edge with TrustZone](https://www.usenix.org/system/files/atc19-park-heejin.pdf)
 
@@ -256,25 +274,25 @@
 
 - 2019, **arXiv**, [Confidential Deep Learning: Executing Proprietary Models on Untrusted Devices](https://arxiv.org/pdf/1908.10730)
 
-- 2019, **arXiv**, [Let the Cloud Watch Over Your IoT File Systems](https://arxiv.org/pdf/1902.06327)
+- 2019, **arXiv**, [Let the Cloud Watch Over Your IoT File Systems](https://arxiv.xilesou.top/pdf/1902.06327)
 
-- 2019, **mobicom**, [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://dl.acm.org/citation.cfm?id=3345447)
+- 2019, **mobicom**, [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://gfsoso.99lb.net/sci-hub.html)
 
 ## Survey
 
-- 2017, **arXiv**, [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282)
+- 2017, **arXiv**, [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.xilesou.top/pdf/1710.09282)
 
-- 2018, **arXiv**, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.org/pdf/1807.11023)
+- 2018, **arXiv**, [A Survey of Machine and Deep Learning Methods for Internet of Things (IoT) Security](https://arxiv.xilesou.top/pdf/1807.11023)
 
 - 2018, **ECCV**, [AI Benchmark: Running Deep Neural Networks on Android Smartphones](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Ignatov_AI_Benchmark_Running_Deep_Neural_Networks_on_Android_Smartphones_ECCVW_2018_paper.pdf)
 
-- 2019, **arXiv**, [AI Benchmark: All About Deep Learning on Smartphones in 2019](https://arxiv.org/pdf/1910.06663)
+- 2019, **arXiv**, [AI Benchmark: All About Deep Learning on Smartphones in 2019](https://arxiv.xilesou.top/pdf/1910.06663)
 
-- 2019, **arXiv**, [Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing](https://arxiv.org/pdf/1905.10083)
+- 2019, **arXiv**, [Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing](https://arxiv.xilesou.top/pdf/1905.10083)
 
-- 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.org/pdf/1903.12261)
+- 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.xilesou.top/pdf/1903.12261)
 
-- 2019, **TNN&LS**, [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107)
+- 2019, **TNN&LS**, [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.xilesou.top/pdf/1712.07107)
 
 ## Other links
 > [Paper List of Adversarial Examples](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
