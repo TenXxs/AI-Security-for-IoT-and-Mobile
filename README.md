@@ -198,6 +198,8 @@
 
 - 2018, **arXiv**, [SentiNet: Detecting Physical Attacks Against Deep Learning Systems](https://arxiv.xilesou.top/pdf/1812.00292)
 
+- 2018, **NeruIPS**, [Spectral Signatures in Backdoor Attacks](https://papers.nips.cc/paper/8024-spectral-signatures-in-backdoor-attacks.pdf)
+
 - 2018, **RAID**, [Fine-Pruning Defending Against Backdooring Attacks on Deep Neural Network](https://arxiv.xilesou.top/pdf/1805.12185)
 
 - 2019, **ACSAC**, [STRIP: a defence against trojan attacks on deep neural networks](https://arxiv.xilesou.top/pdf/1902.06531)
