@@ -286,6 +286,8 @@
 
 - 2018, **ECCV**, [AI Benchmark: Running Deep Neural Networks on Android Smartphones](http://openaccess.thecvf.com/content_ECCVW_2018/papers/11133/Ignatov_AI_Benchmark_Running_Deep_Neural_Networks_on_Android_Smartphones_ECCVW_2018_paper.pdf)
 
+- 2019, **arXiv**, [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.xilesou.top/pdf/1907.09693)
+
 - 2019, **arXiv**, [AI Benchmark: All About Deep Learning on Smartphones in 2019](https://arxiv.xilesou.top/pdf/1910.06663)
 
 - 2019, **arXiv**, [Edge Intelligence: Paving the Last Mile of Artificial Intelligence with Edge Computing](https://arxiv.xilesou.top/pdf/1905.10083)
