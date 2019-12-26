@@ -30,6 +30,8 @@
 
 - 2019, **CVPR**, [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf)
 
+- 2019, **NeurIPS**, [Positive-Unlabeled Compression on the Cloud.pdf](https://papers.nips.cc/paper/8525-positive-unlabeled-compression-on-the-cloud.pdf)
+
 #### Distillation
 
 - 2019, **arXiv**, [Adversarially Robust Distillation](https://arxiv.org/pdf/1905.09747)
