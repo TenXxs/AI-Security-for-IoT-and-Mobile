@@ -122,6 +122,8 @@
 
 - 2019, **arXiv**, [WITCHcraft: Efficient PGD attacks with random step size](https://arxiv.org/pdf/1911.07989)
 
+- 2019, **GECCO**, [GenAttack: practical black-box attacks with gradient-free optimization](https://arxiv.xilesou.top/pdf/1805.11090)
+
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
 #### Defenses
