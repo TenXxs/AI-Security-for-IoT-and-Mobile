@@ -196,6 +196,8 @@
 
 - 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.xilesou.top/pdf/1905.10447)
 
+- 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
+
 #### Defenses
 
 - 2017, **ICCD**, [Neural Trojans](https://arxiv.xilesou.top/pdf/1710.00942)
