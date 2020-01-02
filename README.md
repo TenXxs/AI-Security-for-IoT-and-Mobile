@@ -50,6 +50,8 @@
 
 - 2019, **arXiv**, [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355)
 
+- 2019, **arXiv**, [Localization-aware Channel Pruning for Object Detection.pdf](https://arxiv.xilesou.top/pdf/1911.02237)
+
 - 2019, **arXiv**, [Pruning from Scratch](https://arxiv.xilesou.top/pdf/1909.12579)
 
 - 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
@@ -128,6 +130,8 @@
 
 - 2019, **GECCO**, [GenAttack: practical black-box attacks with gradient-free optimization](https://arxiv.xilesou.top/pdf/1805.11090)
 
+- 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
+
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
 #### Defenses
@@ -197,8 +201,6 @@
 - 2019, **arXiv**, [Invisible Backdoor Attacks Against Deep Neural Networks](https://arxiv.xilesou.top/pdf/1909.02742)
 
 - 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.xilesou.top/pdf/1905.10447)
-
-- 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
 
 #### Defenses
 
