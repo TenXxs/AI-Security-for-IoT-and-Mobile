@@ -118,6 +118,8 @@
 
 - 2018, **arXiv**, [Are adversarial examples inevitable](https://arxiv.org/pdf/1809.02104)
 
+- 2018, **CVPR**, [Robust Physical-World Attacks on Deep Learning Visual Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)
+
 - 2018, **ICML**, [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420)
 
 - 2018, **KDD**, [Adversarial Attacks on Neural Networks for Graph Data](https://arxiv.org/pdf/1805.07984)
@@ -190,8 +192,6 @@
 
 - 2018, **CoRR**, [Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation](https://arxiv.xilesou.top/pdf/1808.10307)
 
-- 2018, **CVPR**, [Robust Physical-World Attacks on Deep Learning Visual Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)
-
 - 2018, **NDSS**, [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
 
 - 2019, **Access**, [BadNets: Evaluating Backdooring Attacks on Deep Neural Networks](https://ieeexplore.ieee.xilesou.top/iel7/6287639/8600701/08685687.pdf)
@@ -220,7 +220,7 @@
 
 - 2019, **arXiv**, [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.xilesou.top/pdf/1908.01763)
 
-- 2019, **NDSS**, [Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.cs.purdue.edu/homes/ma229/papers/NDSS19.pdf)
+- 2019, **NDSS**, [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.cs.purdue.edu/homes/ma229/papers/NDSS19.pdf)
 
 - 2019, **NeurIPS**, [Defending Neural Backdoors via Generative Distribution Modeling](http://papers.nips.cc/paper/9550-defending-neural-backdoors-via-generative-distribution-modeling.pdf)
 
