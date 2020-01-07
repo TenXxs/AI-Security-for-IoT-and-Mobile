@@ -54,6 +54,8 @@
 
 - 2019, **arXiv**, [Pruning from Scratch](https://arxiv.xilesou.top/pdf/1909.12579)
 
+- 2019, **arXiv**, [Selective Brain Damage: Measuring the Disparate Impact of Model Pruning](https://arxiv.xilesou.top/pdf/1911.05248)
+
 - 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
 
 - 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
