@@ -56,9 +56,9 @@
 
 - 2019, **arXiv**, [Selective Brain Damage: Measuring the Disparate Impact of Model Pruning](https://arxiv.xilesou.top/pdf/1911.05248)
 
-- 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.org/pdf/1910.04732)
+- 2019, **arXiv**, [Structured Pruning of Large Language Models](https://arxiv.xilesou.top/pdf/1910.04732)
 
-- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
+- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.xilesou.top/pdf/1906.06110)
 
 - 2019, **ICCV**, [Adversarial Robustness vs. Model Compression, or Both](http://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf)
 
@@ -69,6 +69,10 @@
 - 2019, **ICONIP**, [Self-Adaptive Network Pruning](https://arxiv.org/pdf/1910.08906)
 
 - 2019, **NeurIPS**, [Network Pruning via Transformable Architecture Search](https://arxiv.org/pdf/1905.09717)
+
+- 2020, **AAAI**, [PCONV: The Missing but Desirable Sparsity in DNN Weight Pruning for Real-time Execution on Mobile Devices](https://arxiv.xilesou.top/pdf/1909.05073)
+
+- 2020, **ASPLOS**, [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://arxiv.xilesou.top/pdf/2001.00138)
 
 - 2020, **ICLR**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://openreview.net/pdf?id=S1gSj0NKvB)
 
@@ -152,7 +156,7 @@
 
 - 2018, **NeurIPS**, [Sparse DNNs with Improved Adversarial Robustness](https://papers.nips.cc/paper/7308-sparse-dnns-with-improved-adversarial-robustness.pdf)
 
-- 2019, **arXiv**, [Adversarially robust transfer learning](https://arxiv.org/pdf/1905.08232)
+- 2019, **arXiv**, [Adversarially robust transfer learning](https://arxiv.xilesou.top/pdf/1905.08232)
 
 - 2019, **arXiv**, [Better the Devil you Know: An Analysis of Evasion Attacks using Out-of-Distribution Adversarial Examples](https://arxiv.org/pdf/1905.01726)
 
@@ -164,7 +168,7 @@
 
 - 2019, **arXiv**, [Stateful Detection of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1907.05587)
 
-- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.org/pdf/1906.06110)
+- 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.xilesou.top/pdf/1906.06110)
 
 - 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
 
@@ -276,7 +280,7 @@
 
 ## Interpretability and Attacks to New Scenario
 
-- 2019, **arXiv**, [Deep Leakage from Gradients](https://arxiv.org/pdf/1906.08935)
+- 2019, **arXiv**, [Deep Leakage from Gradients](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)
 
 - 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.xilesou.top/pdf/1812.00891)
 
