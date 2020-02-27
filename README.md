@@ -38,11 +38,15 @@
 
 - 2019, **arXiv**, [Adversarially Robust Distillation](https://arxiv.org/pdf/1905.09747)
 
+- 2020, **AAAI**, [Ultrafast Video Attention Prediction with Coupled Knowledge Distillation](https://arxiv.xilesou.top/pdf/1904.04449)
+
 #### Factorization
 
 - 2019, **arXiv**, [Robust Sparse Regularization: Simultaneously Optimizing Neural Network Robustness and Compactness](https://arxiv.org/pdf/1905.13074)
 
 #### Pruning
+
+- 2017, **arXiv**, [Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning](https://arxiv.xilesou.top/pdf/1705.07356)
 
 - 2017, **arXiv**, [To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/pdf/1710.01878)
 
@@ -178,6 +182,8 @@
 
 - 2019, **arXiv**, [Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://arxiv.org/pdf/1904.08554)
 
+- 2019, **arXiv**, [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](https://arxiv.xilesou.top/pdf/1912.05699)
+
 - 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.xilesou.top/pdf/1903.12261)
 
 - 2019, **ICLR**, [Robustness May Be at Odds with Accuracy](https://arxiv.xilesou.top/pdf/1805.12152.pdf,)
@@ -209,6 +215,10 @@
 - 2019, **arXiv**, [Invisible Backdoor Attacks Against Deep Neural Networks](https://arxiv.xilesou.top/pdf/1909.02742)
 
 - 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.xilesou.top/pdf/1905.10447)
+
+- 2019, **Thesis**, [Exploring the Landscape of Backdoor Attacks on Deep Neural Network Models](https://dspace.mit.edu/bitstream/handle/1721.1/123127/1128278987-MIT.pdf?sequence=1&isAllowed=y)
+
+- 2020, **arXiv**, [Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models](https://arxiv.xilesou.top/pdf/2001.03274)
 
 #### Defenses
 
