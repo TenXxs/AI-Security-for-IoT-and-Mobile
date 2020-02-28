@@ -96,6 +96,12 @@
 
 - 2019, **ICLR**, [Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets](https://arxiv.org/pdf/1903.05662)
 
+- 2020, **MLSys**, [Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers](https://arxiv.xilesou.top/pdf/1905.13082)
+
+- 2020, **MLSys**, [Searching for Winograd-aware Quantized Networks](https://arxiv.org/pdf/2002.10711)
+
+- 2020, **MLSys**, [Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks](https://arxiv.org/pdf/1903.08066)
+
 ### Misc
 
 - 2016, **SenSys**, [Sparsification and Separation of Deep Learning Layers for Constrained Resource Inference on Wearables](http://discovery.ucl.ac.uk/1535346/1/main%20%283%29.pdf)
