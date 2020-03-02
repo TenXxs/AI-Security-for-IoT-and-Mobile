@@ -56,6 +56,8 @@
 
 - 2019, **arXiv**, [Localization-aware Channel Pruning for Object Detection.pdf](https://arxiv.xilesou.top/pdf/1911.02237)
 
+- 2019, **arXiv**, [Pruning by Explaining: A Novel Criterion for Deep Neural Network Pruning](https://arxiv.xilesou.top/pdf/1912.08881)
+
 - 2019, **arXiv**, [Pruning from Scratch](https://arxiv.xilesou.top/pdf/1909.12579)
 
 - 2019, **arXiv**, [Selective Brain Damage: Measuring the Disparate Impact of Model Pruning](https://arxiv.xilesou.top/pdf/1911.05248)
@@ -98,7 +100,7 @@
 
 - 2020, **MLSys**, [Memory-Driven Mixed Low Precision Quantization For Enabling Deep Network Inference On Microcontrollers](https://arxiv.xilesou.top/pdf/1905.13082)
 
-- 2020, **MLSys**, [Searching for Winograd-aware Quantized Networks](https://arxiv.org/pdf/2002.10711)
+- 2020, **MLSys**, [Searching for Winograd-aware Quantized Networks](https://arxiv.xilesou.top/pdf/2002.10711)
 
 - 2020, **MLSys**, [Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks](https://arxiv.org/pdf/1903.08066)
 
