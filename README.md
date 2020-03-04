@@ -340,3 +340,4 @@
 
 ## Other links
 > [Paper List of Adversarial Examples](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
+> [Paper List of Network Pruning](https://github.com/he-y/Awesome-Pruning)
