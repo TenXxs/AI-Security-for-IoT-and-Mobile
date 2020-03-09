@@ -156,6 +156,8 @@
 
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
+- 2020, **USENIX**, [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://nesa.zju.edu.cn/download/TEXTSHIELD%20Robust%20Text%20Classification%20Based%20on%20Multimodal%20Embedding%20and%20Neural%20Machine%20Translation.pdf)
+
 #### Defenses
 
 - 2016, **S&P**, [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508)
@@ -297,6 +299,22 @@
 - 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.xilesou.top/pdf/1909.06512)
 
 - 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.xilesou.top/pdf/1811.12470)
+
+## GAN
+
+- 2014, **NeurIPS**, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
+- 2016, **ICLR**, [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.xilesou.top/pdf/1511.06434.pdf%C3)
+
+- 2016, **NeurIPS**, [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf)
+
+- 2017, **arXiv**, [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.xilesou.top/pdf/1703.10717)
+
+- 2017, **NeurIPS**, [Improved Training of Wasserstein GANs](https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf)
+
+- 2017, **NeurIPS**, [Wasserstein GAN](https://arxiv.xilesou.top/pdf/1701.07875.pdf%20http://arxiv.org/abs/1701.07875)
+
+- 2020, **CVPR**, [CNN-generated images are surprisingly easy to spot... for now](https://arxiv.xilesou.top/pdf/1912.11035)
 
 ## Interpretability and Attacks to New Scenario
 
