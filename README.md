@@ -102,7 +102,7 @@
 
 - 2020, **MLSys**, [Searching for Winograd-aware Quantized Networks](https://arxiv.xilesou.top/pdf/2002.10711)
 
-- 2020, **MLSys**, [Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks](https://arxiv.org/pdf/1903.08066)
+- 2020, **MLSys**, [Trained Quantization Thresholds for Accurate and Efficient Fixed-Point Inference of Deep Neural Networks](https://proceedings.mlsys.org/static/paper_files/mlsys/2020/71-Paper.pdf)
 
 ### Misc
 
@@ -152,6 +152,8 @@
 
 - 2019, **GECCO**, [GenAttack: practical black-box attacks with gradient-free optimization](https://arxiv.xilesou.top/pdf/1805.11090)
 
+- 2020, **arXiv**, [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347)
+
 - 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
 
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
@@ -200,9 +202,15 @@
 
 - 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.xilesou.top/pdf/1809.03008)
 
+- 2019, **NeurIPS**, [Adversarial Training and Robustness for Multiple Perturbations](http://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations.pdf)
+
 - 2019, **NeurIPS**, [Adversarial Training for Free](https://arxiv.xilesou.top/pdf/1904.12843)
 
 - 2019, **PMLR**, [Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers](http://proceedings.mlr.press/v97/liu19b/liu19b.pdf)
+
+- 2019, **USENIX**, [Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features](https://www.usenix.org/system/files/sec19-tong.pdf)
+
+- 2020, **arXiv**, [One Neuron to Fool Them All](https://arxiv.org/pdf/2003.09372)
 
 ### Backdoor
 
@@ -224,11 +232,19 @@
 
 - 2019, **arXiv**, [Invisible Backdoor Attacks Against Deep Neural Networks](https://arxiv.xilesou.top/pdf/1909.02742)
 
+- 2019, **arXiv**, [Label-Consistent Backdoor Attacks](https://arxiv.org/pdf/1912.02771/)
+
+- 2019, **arXiv**, [Programmable Neural Network Trojan for Pre-Trained Feature Extractor](https://arxiv.org/pdf/1901.07766)
+
 - 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.xilesou.top/pdf/1905.10447)
 
 - 2019, **Thesis**, [Exploring the Landscape of Backdoor Attacks on Deep Neural Network Models](https://dspace.mit.edu/bitstream/handle/1721.1/123127/1128278987-MIT.pdf?sequence=1&isAllowed=y)
 
 - 2020, **arXiv**, [Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models](https://arxiv.xilesou.top/pdf/2001.03274)
+
+- 2020, **arXiv**, [Clean-Label Backdoor Attacks on Video Recognition Models](https://arxiv.org/pdf/2003.03030)
+
+- 2020, **arXiv**, [Piracy Resistant Watermarks for Deep Neural Networks](https://arxiv.org/pdf/1910.01226)
 
 #### Defenses
 
@@ -247,6 +263,8 @@
 - 2019, **arXiv**, [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.xilesou.top/pdf/1911.07399)
 
 - 2019, **arXiv**, [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.xilesou.top/pdf/1908.01763)
+
+- 2019, **CCS**, [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/pdf/10.1145/3319535.3363216)
 
 - 2019, **NDSS**, [NIC: Detecting Adversarial Samples with Neural Network Invariant Checking](https://www.cs.purdue.edu/homes/ma229/papers/NDSS19.pdf)
 
@@ -322,7 +340,7 @@
 
 - 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.xilesou.top/pdf/1812.00891)
 
-## SGX and TrustZone
+## SGX, TrustZone and Crypto
 
 - 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](https://gfsoso.99lb.net/sci-hub.html)
 
@@ -335,6 +353,10 @@
 - 2019, **arXiv**, [Let the Cloud Watch Over Your IoT File Systems](https://arxiv.xilesou.top/pdf/1902.06327)
 
 - 2019, **mobicom**, [Occlumency: Privacy-preserving Remote Deep-learning Inference Using SGX](https://gfsoso.99lb.net/sci-hub.html)
+
+- 2020, **arXiv**, [CrypTFlow: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814)
+
+- 2020, **S&P**, [Secure Evaluation of Quantized Neural Networks]()
 
 ## Survey
 
@@ -355,6 +377,8 @@
 - 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.xilesou.top/pdf/1903.12261)
 
 - 2019, **TNN&LS**, [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.xilesou.top/pdf/1712.07107)
+
+- 2020, **arXiv**, [A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications](https://arxiv.org/pdf/2001.06937)
 
 ## Other links
 > [Paper List of Adversarial Examples](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
