@@ -30,7 +30,7 @@
 
 - 2019, **CVPR**, [MnasNet: Platform-Aware Neural Architecture Search for Mobile](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf)
 
-- 2019, **NeurIPS**, [Positive-Unlabeled Compression on the Cloud.pdf](https://papers.nips.cc/paper/8525-positive-unlabeled-compression-on-the-cloud.pdf)
+- 2019, **NeurIPS**, [Positive-Unlabeled Compression on the Cloud](https://papers.nips.cc/paper/8525-positive-unlabeled-compression-on-the-cloud.pdf)
 
 #### Distillation
 
@@ -54,7 +54,7 @@
 
 - 2019, **arXiv**, [Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/pdf/1908.04355)
 
-- 2019, **arXiv**, [Localization-aware Channel Pruning for Object Detection.pdf](https://arxiv.xilesou.top/pdf/1911.02237)
+- 2019, **arXiv**, [Localization-aware Channel Pruning for Object Detection](https://arxiv.org/pdf/1911.02237)
 
 - 2019, **arXiv**, [Pruning by Explaining: A Novel Criterion for Deep Neural Network Pruning](https://arxiv.xilesou.top/pdf/1912.08881)
 
@@ -87,6 +87,8 @@
 #### Quantization
 
 - 2018, **arXiv**, [Combinatorial Attacks on Binarized Neural Networks](https://arxiv.org/pdf/1810.03538)
+
+- 2018, **CVPR**, [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf)
 
 - 2018, **ICLR**, [Attacking Binarized Neural Networks](https://arxiv.org/pdf/1711.00449)
 
@@ -132,13 +134,19 @@
 
 #### Attacks
 
+- 2016, **ICLR**, [Adversarial Manipulation of Deep Representations](https://arxiv.org/pdf/1511.05122)
+
 - 2017, **AISec**, [Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods](https://arxiv.xilesou.top/pdf/1705.07263)
+
+- 2017, **AsiaCCS**, [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3052973.3053009)
 
 - 2017, **S&P**, [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644)
 
 - 2018, **arXiv**, [Are adversarial examples inevitable](https://arxiv.org/pdf/1809.02104)
 
 - 2018, **CVPR**, [Robust Physical-World Attacks on Deep Learning Visual Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)
+
+- 2018, **ICLR**, [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/pdf/1712.04248)
 
 - 2018, **ICML**, [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/pdf/1802.00420)
 
@@ -318,7 +326,9 @@
 
 - 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.xilesou.top/pdf/1811.12470)
 
-## GAN
+## GAN and VAE
+
+- 2014, **ICLR**, [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf?source=post_page---------------------------)
 
 - 2014, **NeurIPS**, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
@@ -368,7 +378,7 @@
 
 - 2019, **arXiv**, [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.xilesou.top/pdf/1907.09693)
 
-- 2019, **arXiv**, [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review.pdf](https://arxiv.xilesou.top/pdf/1909.08072)
+- 2019, **arXiv**, [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072)
 
 - 2019, **arXiv**, [AI Benchmark: All About Deep Learning on Smartphones in 2019](https://arxiv.xilesou.top/pdf/1910.06663)
 
