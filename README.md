@@ -134,6 +134,8 @@
 
 #### Attacks
 
+- 2016, **Euro S&P**, [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/pdf/1511.07528.pdf&xid=25657,15700023,15700124,15700149,15700186,15700191,15700201,15700237,15700242)
+
 - 2016, **ICLR**, [Adversarial Manipulation of Deep Representations](https://arxiv.org/pdf/1511.05122)
 
 - 2017, **AISec**, [Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods](https://arxiv.xilesou.top/pdf/1705.07263)
@@ -163,6 +165,10 @@
 - 2020, **arXiv**, [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347)
 
 - 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
+
+- 2020, **ICLR**, [Fast is better than free: Revisiting adversarial training](https://arxiv.org/pdf/2001.03994)
+
+- 2020, **USENIX**, [Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/system/files/sec20fall_quiring_prepub.pdf)
 
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
 
