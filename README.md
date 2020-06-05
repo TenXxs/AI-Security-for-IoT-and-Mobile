@@ -168,6 +168,8 @@
 
 - 2020, **ICLR**, [Fast is better than free: Revisiting adversarial training](https://arxiv.org/pdf/2001.03994)
 
+- 2020, **S&P**, [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/pdf/1911.02142)
+
 - 2020, **USENIX**, [Adversarial Preprocessing: Understanding and Preventing Image-Scaling Attacks in Machine Learning](https://www.usenix.org/system/files/sec20fall_quiring_prepub.pdf)
 
 - 2020, **USENIX**, [Hybrid Batch Attacks: Finding Black-box Adversarial Examples with Limited Queries](https://arxiv.org/pdf/1908.07000)
@@ -183,6 +185,8 @@
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
 
 - 2018, **CVPR**, [Partial Transfer Learning with Selective Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partial_Transfer_Learning_CVPR_2018_paper.pdf)
+
+- 2018, **ICLR**, [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/pdf/1705.07204.pdf))
 
 - 2018, **ICLR**, [Stochastic Activation Pruning for Robust Adversarial Defense](https://arxiv.org/pdf/1803.01442)
 
@@ -300,6 +304,10 @@
 
 - 2019, **S&P**, [Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning](https://gfsoso.99lb.net/sci-hub.html)
 
+- 2020, **NDSS**, [CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples](http://jin.ece.ufl.edu/papers/NDSS2020_CloudLeak.pdf)
+
+- 2020, **USENIX**, [Updates-Leak: Data Set Inference and Reconstruction Attacks in Online Learning](https://arxiv.org/pdf/1904.01067)
+
 #### Defenses
 
 - 2018, **arXiv**, [PRIVADO: Practical and Secure DNN Inference with Enclaves](https://gfsoso.99lb.net/sci-hub.html)
@@ -315,6 +323,10 @@
 - 2019, **SOSP**, [Privacy accounting and quality control in the sage differentially private ML platform](https://arxiv.xilesou.top/pdf/1909.01502)
 
 ### Poisoning
+
+#### Attacks
+
+- 2020, **S&P**, [Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning](https://arxiv.org/pdf/2001.04935)
 
 #### Defenses
 
@@ -339,6 +351,8 @@
 - 2014, **NeurIPS**, [Generative Adversarial Nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
 - 2016, **ICLR**, [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.xilesou.top/pdf/1511.06434.pdf%C3)
+
+- 2016, **ICML**, [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/pdf/1512.09300.pdf?source=post_page---------------------------)
 
 - 2016, **NeurIPS**, [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](http://papers.nips.cc/paper/6399-infogan-interpretable-representation-learning-by-information-maximizing-generative-adversarial-nets.pdf)
 
