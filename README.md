@@ -164,6 +164,8 @@
 
 - 2020, **arXiv**, [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347)
 
+- 2020, **arXiv**, [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks](https://arxiv.org/pdf/2003.01690)
+
 - 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
 
 - 2020, **ICLR**, [Fast is better than free: Revisiting adversarial training](https://arxiv.org/pdf/2001.03994)
@@ -178,13 +180,25 @@
 
 #### Defenses
 
+- 2015, **arXiv**, [Analysis of classifiers¡¯ robustness to adversarial perturbations](https://link.springer.com/article/10.1007/s10994-017-5663-3)
+
+- 2016, **ICLR**, [Learning with a Strong Adversary](https://arxiv.org/pdf/1511.03034)
+
 - 2016, **S&P**, [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/pdf/1511.04508)
+
+- 2017, **arXiv**, [The Space of Transferable Adversarial Examples](https://arxiv.org/pdf/1704.03453.pdf?source=post_page---------------------------)
+
+- 2017, **ICLR**, [Adversarial Machine Learning at Scale](https://arxiv.org/pdf/1611.01236)
+
+- 2018, **AAAI**, [Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17337/15866)
 
 - 2018, **arXiv**, [Adversarial Logit Pairing](https://arxiv.org/pdf/1803.06373)
 
 - 2018, **arXiv**, [The Taboo Trap: Behavioural Detection of Adversarial Samples](https://arxiv.org/pdf/1811.07375)
 
 - 2018, **CVPR**, [Partial Transfer Learning with Selective Adversarial Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Partial_Transfer_Learning_CVPR_2018_paper.pdf)
+
+- 2018, **ECCV**, [Is robustness the cost of accuracy¨Ca comprehensive study on the robustness of 18 deep image classification models](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dong_Su_Is_Robustness_the_ECCV_2018_paper.pdf)
 
 - 2018, **ICLR**, [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/pdf/1705.07204.pdf))
 
@@ -219,6 +233,8 @@
 - 2019, **ICLR**, [Robustness May Be at Odds with Accuracy](https://arxiv.xilesou.top/pdf/1805.12152.pdf,)
 
 - 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.xilesou.top/pdf/1809.03008)
+
+- 2019, **ICML**, [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/pdf/1901.08573)
 
 - 2019, **NeurIPS**, [Adversarial Training and Robustness for Multiple Perturbations](http://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations.pdf)
 
@@ -340,6 +356,8 @@
 
 - 2019, **arXiv**, [Can You Really Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1911.07963)
 
+- 2019, **arXiv**, [Deep Leakage from Gradients](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)
+
 - 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.xilesou.top/pdf/1909.06512)
 
 - 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.xilesou.top/pdf/1811.12470)
@@ -365,8 +383,6 @@
 - 2020, **CVPR**, [CNN-generated images are surprisingly easy to spot... for now](https://arxiv.xilesou.top/pdf/1912.11035)
 
 ## Interpretability and Attacks to New Scenario
-
-- 2019, **arXiv**, [Deep Leakage from Gradients](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)
 
 - 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.xilesou.top/pdf/1812.00891)
 
