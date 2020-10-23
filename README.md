@@ -82,7 +82,7 @@
 
 - 2020, **ASPLOS**, [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://arxiv.xilesou.top/pdf/2001.00138)
 
-- 2020, **ICLR**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://openreview.net/pdf?id=S1gSj0NKvB)
+- 2020, **ICLR**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning]()
 
 #### Quantization
 
@@ -156,15 +156,33 @@
 
 - 2018, **USENIX**, [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
 
+- 2019, **arXiv**, [Adversarial Examples Are a Natural Consequence of Test Error in Noise](https://arxiv.org/pdf/1901.10513)
+
 - 2019, **arXiv**, [Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/pdf/1905.02175)
+
+- 2019, **arXiv**, [Batch Normalization is a Cause of Adversarial Vulnerability](https://arxiv.org/pdf/1905.02161)
 
 - 2019, **arXiv**, [WITCHcraft: Efficient PGD attacks with random step size](https://arxiv.org/pdf/1911.07989)
 
 - 2019, **GECCO**, [GenAttack: practical black-box attacks with gradient-free optimization](https://arxiv.xilesou.top/pdf/1805.11090)
 
+- 2019, **ICML**, [Revisiting Adversarial Risk](http://proceedings.mlr.press/v89/suggala19a/suggala19a.pdf)
+
+- 2020, **arXiv**, [Adversarially-Trained Deep Nets Transfer Better](https://arxiv.org/pdf/2007.05869.pdf(%5Bpaper%5D(https://arxiv.org/pdf/2007.05869.pdf))
+
+- 2020, **arXiv**, [Do Adversarially Robust ImageNet Models Transfer Better](https://arxiv.org/pdf/2007.08489)
+
+- 2020, **arXiv**, [Feature Purification: How Adversarial Training Performs Robust Deep Learning](https://arxiv.org/pdf/2005.10190)
+
 - 2020, **arXiv**, [On Adaptive Attacks to Adversarial Example Defenses](https://arxiv.org/pdf/2002.08347)
 
 - 2020, **arXiv**, [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks](https://arxiv.org/pdf/2003.01690)
+
+- 2020, **arXiv**, [Towards Feature Space Adversarial Attack](https://arxiv.org/pdf/2004.12385)
+
+- 2020, **CCS**, [A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models](https://arxiv.org/pdf/1911.01559)
+
+- 2020, **CVPR**, [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/abs/1905.13545)
 
 - 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
 
@@ -220,11 +238,11 @@
 
 - 2018, **ICML**, [An Optimal Control Approach to Deep Learning and Applications to Discrete-Weight Neural Networks](https://arxiv.org/pdf/1803.01299)
 
-- 2018, **NeurIPS SECML**, [Evaluating and Understanding the Robustness of Adversarial Logit Pairing]()
+- 2018, **NeurIPS SECML**, [Evaluating and Understanding the Robustness of Adversarial Logit Pairing](https://arxiv.org/pdf/1807.10272)
 
-- 2018, **NeurIPS SECML**, [Logit Pairing Methods Can Fool Gradient-Based Attacks]()
+- 2018, **NeurIPS SECML**, [Logit Pairing Methods Can Fool Gradient-Based Attacks](https://arxiv.org/pdf/1810.12042)
 
-- 2018, **NeurIPS**, [Adversarially Robust Generalization Requires More Data]()
+- 2018, **NeurIPS**, [Adversarially Robust Generalization Requires More Data](https://arxiv.org/pdf/1804.11285)
 
 - 2018, **NeurIPS**, [Sparse DNNs with Improved Adversarial Robustness](https://papers.nips.cc/paper/7308-sparse-dnns-with-improved-adversarial-robustness.pdf)
 
@@ -234,41 +252,43 @@
 
 - 2019, **arXiv**, [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705)
 
-- 2019, **arXiv**, [Scaleable input gradient regularization for adversarial robustness]()
+- 2019, **arXiv**, [Scaleable input gradient regularization for adversarial robustness](https://arxiv.org/abs/1905.11468)
 
 - 2019, **arXiv**, [Sitatapatra: Blocking the Transfer of Adversarial Samples](https://arxiv.org/pdf/1901.08121)
 
 - 2019, **arXiv**, [Stateful Detection of Black-Box Adversarial Attacks](https://arxiv.org/pdf/1907.05587)
 
-- 2019, **arXiv**, [Supervised Multimodal Bitransformers for Classifying Images and Text]()
+- 2019, **arXiv**, [Supervised Multimodal Bitransformers for Classifying Images and Text](https://arxiv.org/abs/1909.02950)
 
 - 2019, **arXiv**, [Towards Compact and Robust Deep Neural Networks](https://arxiv.xilesou.top/pdf/1906.06110)
 
 - 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
 
-- 2019, **arXiv**, [Transfer of Adversarial Robustness Between Perturbation Types]()
+- 2019, **arXiv**, [Transfer of Adversarial Robustness Between Perturbation Types](https://arxiv.org/pdf/1905.01034)
 
 - 2019, **arXiv**, [Understanding Adversarial Robustness: The Trade-off between Minimum and Average Margin](https://arxiv.org/pdf/1907.11780)
 
 - 2019, **arXiv**, [Using Honeypots to Catch Adversarial Attacks on Neural Networks](https://arxiv.org/pdf/1904.08554)
 
-- 2019, **arXiv**, [Using Pre-Training Can Improve Model Robustness and Uncertainty]()
+- 2019, **arXiv**, [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/pdf/1901.09960)
 
-- 2019, **arXiv**, [VisualBERT: A Simple and Performant Baseline for Vision and Language]()
+- 2019, **arXiv**, [VisualBERT: A Simple and Performant Baseline for Vision and Language](https://arxiv.org/pdf/1908.03557)
 
 - 2019, **arXiv**, [What it Thinks is Important is Important: Robustness Transfers through Input Gradients](https://arxiv.xilesou.top/pdf/1912.05699)
 
-- 2019, **CVPR**, [Feature Denoising for Improving Adversarial Robustness]()
+- 2019, **CVPR**, [Disentangling Adversarial Robustness and Generalization](https://arxiv.org/abs/1812.00740)
 
-- 2019, **ICCV**, [Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks]()
+- 2019, **CVPR**, [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/pdf/1812.03411)
+
+- 2019, **ICCV**, [Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks](https://arxiv.org/abs/1811.10716)
 
 - 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.xilesou.top/pdf/1903.12261)
 
-- 2019, **ICLR**, [L2-Nonexpansive Neural Networks]()
+- 2019, **ICLR**, [L2-Nonexpansive Neural Networks](https://arxiv.org/abs/1802.07896)
 
 - 2019, **ICLR**, [Robustness May Be at Odds with Accuracy](https://arxiv.xilesou.top/pdf/1805.12152.pdf,)
 
-- 2019, **ICLR**, [Towards the first adversarially robust neural network model on MNIST]()
+- 2019, **ICLR**, [Towards the first adversarially robust neural network model on MNIST](https://arxiv.org/abs/1805.09190)
 
 - 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.xilesou.top/pdf/1809.03008)
 
@@ -278,13 +298,17 @@
 
 - 2019, **NeurIPS**, [Adversarial Training for Free](https://arxiv.xilesou.top/pdf/1904.12843)
 
-- 2019, **NeurIPS**, [You only propagate once: Painless adversarial training using maximal principle]()
+- 2019, **NeurIPS**, [Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers](https://arxiv.org/abs/1906.04584)
+
+- 2019, **NeurIPS**, [You only propagate once: Painless adversarial training using maximal principle](http://papers.nips.cc/paper/8316-you-only-propagate-once-accelerating-adversarial-training-via-maximal-principle)
 
 - 2019, **PMLR**, [Transferable Adversarial Training: A General Approach to Adapting Deep Classifiers](http://proceedings.mlr.press/v97/liu19b/liu19b.pdf)
 
 - 2019, **USENIX**, [Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features](https://www.usenix.org/system/files/sec19-tong.pdf)
 
-- 2020, **AAAI**, [Universal Adversarial Training]()
+- 2020, **AAAI**, [Universal Adversarial Training](http://openaccess.thecvf.com/content_cvpr_2017/html/Moosavi-Dezfooli_Universal_Adversarial_Perturbations_CVPR_2017_paper.html)
+
+- 2020, **arXiv**, [Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation](https://arxiv.org/abs/2002.02998)
 
 - 2020, **arXiv**, [One Neuron to Fool Them All](https://arxiv.org/pdf/2003.09372)
 
@@ -294,7 +318,7 @@
 
 - 2020, **ICLR**, [Fast is better than free: Revisiting adversarial training](https://arxiv.org/pdf/2001.03994)
 
-- 2020, **KDD**, [An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks]()
+- 2020, **KDD**, [An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks](https://dl.acm.org/doi/abs/10.1145/3394486.3403064)
 
 ### Backdoor
 
@@ -310,6 +334,10 @@
 
 - 2018, **NDSS**, [Trojaning Attack on Neural Networks](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2782&context=cstech)
 
+- 2018, **NeurIPS**, [Poison Frogs Targeted Clean-Label Poisoning Attacks on Neural Networks](http://papers.nips.cc/paper/7849-poison-frogs-targeted-clean-label-poisoning-attacks-on-neural-networks)
+
+- 2018, **USENIX**, [When Does Machine Learning FAIL Generalized Transferability for Evasion and Poisoning Attacks](https://www.usenix.org/conference/usenixsecurity18/presentation/suciu)
+
 - 2019, **Access**, [BadNets: Evaluating Backdooring Attacks on Deep Neural Networks](https://ieeexplore.ieee.xilesou.top/iel7/6287639/8600701/08685687.pdf)
 
 - 2019, **arXiv**, [Bypassing Backdoor Detection Algorithms in Deep Learning](https://arxiv.xilesou.top/pdf/1905.13409)
@@ -323,6 +351,8 @@
 - 2019, **CCS**, [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.xilesou.top/pdf/1905.10447)
 
 - 2019, **Thesis**, [Exploring the Landscape of Backdoor Attacks on Deep Neural Network Models](https://dspace.mit.edu/bitstream/handle/1721.1/123127/1128278987-MIT.pdf?sequence=1&isAllowed=y)
+
+- 2020, **AAAI**, [Hidden Trigger Backdoor Attacks](https://arxiv.org/pdf/1910.00033)
 
 - 2020, **arXiv**, [Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models](https://arxiv.xilesou.top/pdf/2001.03274)
 
@@ -398,20 +428,6 @@
 
 - 2019, **arXiv**, [Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning](https://arxiv.xilesou.top/pdf/1908.07558)
 
-## Federated Learning
-
-- 2018, **arXiv**, [How To Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1807.00459)
-
-- 2018, **arXiv**, [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.xilesou.top/pdf/1808.04866)
-
-- 2019, **arXiv**, [Can You Really Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1911.07963)
-
-- 2019, **arXiv**, [Deep Leakage from Gradients](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)
-
-- 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.xilesou.top/pdf/1909.06512)
-
-- 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.xilesou.top/pdf/1811.12470)
-
 ## GAN and VAE
 
 - 2014, **ICLR**, [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf?source=post_page---------------------------)
@@ -434,15 +450,27 @@
 
 ## Interpretability and Attacks to New Scenario
 
+- 2018, **arXiv**, [How To Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1807.00459)
+
+- 2018, **arXiv**, [Mitigating Sybils in Federated Learning Poisoning](https://arxiv.xilesou.top/pdf/1808.04866)
+
+- 2019, **arXiv**, [Can You Really Backdoor Federated Learning](https://arxiv.xilesou.top/pdf/1911.07963)
+
+- 2019, **arXiv**, [Deep Leakage from Gradients](https://papers.nips.cc/paper/9617-deep-leakage-from-gradients.pdf)
+
+- 2019, **arXiv**, [On Safeguarding Privacy and Security in the Framework of Federated Learning](https://arxiv.xilesou.top/pdf/1909.06512)
+
+- 2019, **ICLR**, [Analyzing Federated Learning through an Adversarial Lens](https://arxiv.xilesou.top/pdf/1811.12470)
+
 - 2020, **USENIX**, [Interpretable Deep Learning under Fire](https://arxiv.xilesou.top/pdf/1812.00891)
 
 ## Multimodal
 
-- 2019, **NDSS**, [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications]()
+- 2019, **NDSS**, [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271)
 
-- 2019, **TACL**, [Trick Me If You Can: Human-in-the-Loop Generation of Adversarial Examples for Question Answering]()
+- 2019, **TACL**, [Trick Me If You Can: Human-in-the-Loop Generation of Adversarial Examples for Question Answering](https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00279)
 
-- 2020, **AAAI**, [Is BERT Really Robust: A Strong Baseline for Natural Language Attack on Text Classification and Entailment]()
+- 2020, **AAAI**, [Is BERT Really Robust: A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://zhijing-jin.com/files/papers/Is_BERT_Jin2020AAAI.pdf)
 
 ## SGX, TrustZone and Crypto
 
