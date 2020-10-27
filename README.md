@@ -1,4 +1,32 @@
-
+# AI Security Reading List
+- [AI for IoT and Mobile](#ai-for-iot-and-mobile)
+  * [Compression](#compression)
+    + [Combining or Other](#combining-or-other)
+    + [Distillation](#distillation)
+    + [Factorization](#factorization)
+    + [Pruning](#pruning)
+    + [Quantization](#quantization)
+  * [Misc](#misc)
+- [Attacks and Defenses](#attacks-and-defenses)
+  * [Adversarial Examples](#adversarial-examples)
+    + [Attacks](#attacks)
+    + [Defenses](#defenses)
+  * [Backdoor](#backdoor)
+    + [Attacks](#attacks-1)
+    + [Defenses](#defenses-1)
+  * [Inference](#inference)
+    + [Attacks](#attacks-2)
+    + [Defenses](#defenses-2)
+  * [Poisoning](#poisoning)
+    + [Attacks](#attacks-3)
+    + [Defenses](#defenses-3)
+- [Federated Learning](#federated-learning)
+- [GAN and VAE](#gan-and-vae)
+- [Interpretability and Attacks to New Scenario](#interpretability-and-attacks-to-new-scenario)
+- [Multimodal](#multimodal)
+- [SGX, TrustZone and Crypto](#sgx--trustzone-and-crypto)
+- [Survey](#survey)
+- [Other links](#other-links)
 
 ## AI for IoT and Mobile
 
