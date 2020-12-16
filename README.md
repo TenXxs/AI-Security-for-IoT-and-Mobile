@@ -11,6 +11,7 @@
   * [Adversarial Examples](#adversarial-examples)
     + [Attacks](#attacks)
     + [Defenses](#defenses)
+    + [Robustness](#robustness)
   * [Backdoor](#backdoor)
     + [Attacks](#attacks-1)
     + [Defenses](#defenses-1)
@@ -112,7 +113,7 @@
 
 - 2020, **ASPLOS**, [PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning](https://arxiv.xilesou.top/pdf/2001.00138)
 
-- 2020, **ICLR**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning](https://arxiv.org/abs/2003.02389)
+- 2020, **ICLR**, [Comparing Fine-tuning and Rewinding in Neural Network Pruning]()
 
 #### Quantization
 
@@ -218,7 +219,11 @@
 
 - 2020, **CVPR**, [High-Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Frequency_Component_Helps_Explain_the_Generalization_of_Convolutional_Neural_Networks_CVPR_2020_paper.pdf)
 
+- 2020, **ECCV**, [Square Attack: A Query-Efficient Black-Box Adversarial Attack via Random Search](https://arxiv.org/pdf/1912.00049)
+
 - 2020, **ICLR**, [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://arxiv.xilesou.top/pdf/1904.04334)
+
+- 2020, **ICML**, [Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack](http://proceedings.mlr.press/v119/croce20a/croce20a.pdf)
 
 - 2020, **S&P**, [Intriguing Properties of Adversarial ML Attacks in the Problem Space](https://arxiv.org/pdf/1911.02142)
 
@@ -298,6 +303,12 @@
 
 #### Robustness
 
+- 2016, **CVPR**, [Improving the Robustness of Deep Neural Networks via Stability Training](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zheng_Improving_the_Robustness_CVPR_2016_paper.pdf)
+
+- 2016, **NeurIPS**, [Measuring neural net robustness with constraints]()
+
+- 2017, **CAV**, [Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks]()
+
 - 2017, **ICML**, [Parseval Networks: Improving Robustness to Adversarial Examples](https://arxiv.org/pdf/1704.08847)
 
 - 2018, **AAAI**, [Improving the adversarial robustness and interpretability of deep neural networks by regularizing their input gradients](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17337/15866)
@@ -330,15 +341,27 @@
 
 - 2018, **S&P**, [AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf)
 
+- 2019, **arXiv**, [Adversarial Robustness May Be at Odds With Simplicity]()
+
+- 2019, **arXiv**, [Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets]()
+
 - 2019, **arXiv**, [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705)
+
+- 2019, **arXiv**, [On the Effect of Low-Rank Weights on Adversarial Robustness of Neural Networks]()
 
 - 2019, **arXiv**, [Towards Deep Learning Models Resistant to Adversarial Attacks ](https://arxiv.org/pdf/1706.06083)
 
 - 2019, **arXiv**, [Understanding Adversarial Robustness: The Trade-off between Minimum and Average Margin](https://arxiv.org/pdf/1907.11780)
 
+- 2019, **CVPR**, [Adversarial Defense by Stratified Convolutional Sparse Coding](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Adversarial_Defense_by_Stratified_Convolutional_Sparse_Coding_CVPR_2019_paper.pdf)
+
+- 2019, **CVPR**, [Robustness via curvature regularization, and vice versa]()
+
 - 2019, **ICCV**, [Bilateral Adversarial Training: Towards Fast Training of More Robust Models Against Adversarial Attacks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Bilateral_Adversarial_Training_Towards_Fast_Training_of_More_Robust_Models_ICCV_2019_paper.pdf)
 
 - 2019, **ICLR**, [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://arxiv.xilesou.top/pdf/1903.12261)
+
+- 2019, **ICLR**, [Deep Anomaly Detection with Outlier Exposure]()
 
 - 2019, **ICLR**, [L2-Nonexpansive Neural Networks](https://arxiv.org/pdf/1802.07896)
 
@@ -348,15 +371,27 @@
 
 - 2019, **ICLR**, [Training for Faster Adversarial Robustness Verification via Inducing ReLU Stability](https://arxiv.xilesou.top/pdf/1809.03008)
 
+- 2019, **ICML**, [Improving Adversarial Robustness via Promoting Ensemble Diversity]()
+
 - 2019, **ICML**, [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/pdf/1901.08573)
 
+- 2019, **ICML**, [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/pdf/1901.09960)
+
 - 2019, **NeurIPS**, [A Convex Relaxation Barrier to Tight Robustness Verification of Neural Networks](https://arxiv.org/abs/1902.08722)
+
+- 2019, **NeurIPS**, [Adversarial Robustness through Local Linearization]()
 
 - 2019, **NeurIPS**, [Adversarial Training and Robustness for Multiple Perturbations](http://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations.pdf)
 
 - 2019, **NeurIPS**, [Adversarial Training for Free](https://arxiv.xilesou.top/pdf/1904.12843)
 
+- 2019, **NeurIPS**, [Defense Against Adversarial Attacks Using Feature Scattering-based Adversarial Training]()
+
+- 2019, **NeurIPS**, [Efficient and Accurate Estimation of Lipschitz Constants for Deep Neural Networks]()
+
 - 2019, **NeurIPS**, [Lower Bounds on Adversarial Robustness from Optimal Transport](http://papers.nips.cc/paper/8968-lower-bounds-on-adversarial-robustness-from-optimal-transport.pdf)
+
+- 2019, **NeurIPS**, [Metric learning for adversarial robustness]()
 
 - 2019, **NeurIPS**, [Provably Robust Deep Learning via Adversarially Trained Smoothed Classifiers](http://papers.nips.cc/paper/9307-provably-robust-deep-learning-via-adversarially-trained-smoothed-classifiers.pdf)
 
@@ -372,7 +407,13 @@
 
 - 2020, **arXiv**, [Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation](https://arxiv.org/pdf/2002.02998)
 
+- 2020, **arXiv**, [Smooth Adversarial Training]()
+
+- 2020, **arXiv**, [Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples]()
+
 - 2020, **CVPR**, [Adversarial Robustness: From Self-Supervised Pre-Training to Fine-Tuning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Adversarial_Robustness_From_Self-Supervised_Pre-Training_to_Fine-Tuning_CVPR_2020_paper.pdf)
+
+- 2020, **CVPR**, [Benchmarking Adversarial Robustness on Image Classification]()
 
 - 2020, **ICLR**, [Adversarial Training and Provable Defenses: Bridging the Gap](https://openreview.net/forum?id=SJxSDxrKDr)
 
@@ -380,9 +421,17 @@
 
 - 2020, **ICLR**, [Fast is better than free: Revisiting adversarial training](https://arxiv.org/pdf/2001.03994)
 
+- 2020, **ICLR**, [Intriguing properties of adversarial training at scale]()
+
+- 2020, **ICLR**, [Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness]()
+
 - 2020, **ICLR**, [Towards Stable and Efficient Training of Verifiably Robust Neural Networks](https://arxiv.org/pdf/1906.06316)
 
 - 2020, **ICML**, [Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks](https://arxiv.org/pdf/2003.01690)
+
+- 2020, **NeurIPS**, [Boosting Adversarial Training with Hypersphere Embedding]()
+
+- 2020, **NeurIPS**, [Understanding and Improving Fast Adversarial Training]()
 
 ### Backdoor
 
@@ -580,7 +629,7 @@
 
 - 2020, **arXiv**, [CrypTFlow: Secure TensorFlow Inference](https://arxiv.org/pdf/1909.07814)
 
-- 2020, **S&P**, [Secure Evaluation of Quantized Neural Networks](https://content.sciendo.com/view/journals/popets/2020/4/article-p355.xml)
+- 2020, **S&P**, [Secure Evaluation of Quantized Neural Networks]()
 
 ## Survey
 
